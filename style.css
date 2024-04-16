@@ -1,5 +1,12 @@
-.offer{
+.offertxt{
     position: absolute!important;
     top: 220px;
     right: 160px;
+}
+.hometxt{
+    margin-top: 145px;
+}
+.googlefnt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
 }
